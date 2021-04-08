@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Christiano Ronaldo",
+        "salary": 35400,
+        "team": "Juventus",
+        "img": "https://i.ibb.co/p0JCZMk/image.png"
+    },
+    {
+        "id": 2,
+        "name": "Lionel Messi",
+        "salary": 18800,
+        "team": "Barcelona",
+        "img": "https://i.ibb.co/YfP6LCV/image.png"
+    },
+    {
+        "id": 3,
+        "name": "Mohammad Salah",
+        "salary": 12700,
+        "team": "Liverpool",
+        "img": "https://i.ibb.co/GWYW7Bp/image.png"
+    },
+    {
+        "id": 4,
+        "name": "Roberto Firmino",
+        "salary": 95900,
+        "team": "Liverpool",
+        "img": "https://i.ibb.co/KKfPsgp/image.png"
+    },
+    {
+        "id": 5,
+        "name": "Sergio Ramos",
+        "salary": 93000,
+        "team": "Real Madrid",
+        "img": "https://i.ibb.co/KLxfWG2/image.png"
+    },
+    {
+        "id": 6,
+        "name": "Neymar jr.",
+        "salary": 48000,
+        "team": "PSG",
+        "img": "https://i.ibb.co/GRRDKcZ/image.png"
+    },
+    {
+        "id": 7,
+        "name": "Kylian Mbappe",
+        "salary": 46400,
+        "team": "PSG",
+        "img": "https://i.ibb.co/WF35HrZ/image.png"
+    },
+    {
+        "id": 8,
+        "name": "Eden Hazard",
+        "salary": 29200,
+        "team": "Real Madrid",
+        "img": "https://i.ibb.co/GVfgDkb/image.png"
+    },
+    {
+        "id": 9,
+        "name": "Edison Cavani",
+        "salary": 43000,
+        "team": "Manchester United",
+        "img": "https://i.ibb.co/Jq0xrwD/image.png"
+    },
+    {
+        "id": 10,
+        "name": "Robert Lewandowski",
+        "salary": 89800,
+        "team": "Bayern Munich",
+        "img": "https://i.ibb.co/yFCKhzM/image.png"
+    },
+    {
+        "id": 11,
+        "name": "Angel Di Maria",
+        "salary": 50100,
+        "team": "PSG",
+        "img": "https://i.ibb.co/WnF4VDz/image.png"
+    }
+]

@@ -1,0 +1,12 @@
+.player{
+    display:flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 0px 15px;
+    padding: 5px;
+    
+}
+.playerImg img{
+    width: 250px;
+    height: 200px;
+    padding: 5px;
+}
