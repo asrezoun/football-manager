@@ -10,4 +10,4 @@
 ### salary calculation real time
 ### fontawesome icon
 
-### [Live site](https://objective-keller-a53bc8.netlify.app/)
+### [Live site](https://footballmanager.netlify.app/)

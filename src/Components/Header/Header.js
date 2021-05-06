@@ -6,8 +6,8 @@ const Header = () => {
         <div className="header">
             <h1>Football Manager</h1>
             <nav>
-                <a href="/Home">Home</a>
-                <a href="/review">Player Review</a>
+                <p>Home</p>
+                <p>Player Review</p>
             </nav>
         </div>
     );
